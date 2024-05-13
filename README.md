@@ -7,4 +7,4 @@
 
 
 
-![image](https://github.com/RaahimSiddiqi/TopicModeling-based-TextClassification/assets/76508601/3ba66833-4ad1-46ac-849d-16978445c415)
+![image](https://github.com/RaahimSiddiqi/TopicModeling-based-TextClassification/assets/87665048/97505b29-cbc4-4386-9769-80349fec1261)
